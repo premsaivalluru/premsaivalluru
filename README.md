@@ -30,19 +30,21 @@ A resume and job-description analysis app that surfaces skill gaps, ATS-style in
 
 **Stack:** Python · Streamlit · LangChain · LangGraph · Groq · ChromaDB · Gemini Embeddings
 
-[Repository](https://github.com/premsaivalluru/ResumeInsight_AI) · [Portfolio](https://premsaivalluru.onrender.com)
+[Repository](https://github.com/premsaivalluru/ResumeInsight_AI) · [Live Demo](https://resumeinsightai.streamlit.app/)
 
 ### AI Governance & Model Validation Agent
 A multi-agent workflow for reviewing model performance, identifying potential risks, and generating governance-focused reports through an interactive dashboard.
 
 **Stack:** Python · CrewAI · Streamlit · Pandas · Plotly
 
-[Repository](https://github.com/premsaivalluru/ml_governance_pipeline)
+[Repository](https://github.com/premsaivalluru/ml_governance_pipeline)  · [Live Demo](https://ml-model-validation.streamlit.app/)
 
 ### Smart Timetable Management System
 A timetable management application for students and faculty, supporting role-based workflows, lecture-swap requests, and schedule-change notifications.
 
 **Stack:** Python · Django · HTML · CSS · JavaScript · SQLite
+
+[Repository](https://github.com/premsaivalluru/Smart_Time_Table_Management_System.git)
 
 <!-- Add the repository URL here when you are ready to publish it. -->
 
