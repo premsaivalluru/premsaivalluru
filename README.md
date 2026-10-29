@@ -3,118 +3,104 @@
   Setup:
   1. Create a PUBLIC repository named exactly: premsaivalluru
   2. Add this file as README.md in the repository root.
-  3. Replace any placeholder links below with your real profile/project URLs.
 -->
 
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h1>Prem Sai Valluru</h1>
+      <h3>Agentic AI Engineer & Python Full Stack Developer</h3>
+      <p>Building production-ready Agentic AI systems, automated workflows, and robust full-stack web architectures.</p>
+      <p>
+        <a href="https://premsaivalluru.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+        <a href="https://www.linkedin.com/in/premsaivalluru"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="mailto:vallurupremsai590@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premsaivalluru&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📋 Executive Summary
+
+- **Education:** B.Tech candidate in Computer Science & Information Technology at MVGR College of Engineering (2023–2027).
+- **Core Focus:** Multi-agent systems, Retrieval-Augmented Generation (RAG), and intelligent autonomous workflows.
+- **Engineering Philosophy:** Designing scalable APIs, optimizing model evaluation frameworks, and building data-driven web applications.
+
+---
+
+### 🛠️ Technical Expertise
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Languages & Web Architecture</h4>
+      <ul>
+        <li><strong>Languages:</strong> Python, Java, JavaScript, SQL, HTML5, CSS3</li>
+        <li><strong>Web Back-End:</strong> Django, Django REST (DRF), FastAPI, Flask</li>
+        <li><strong>Front-End & UI:</strong> React, Streamlit</li>
+        <li><strong>Databases:</strong> MongoDB, SQLite, SQL</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>AI, ML & Data Engineering</h4>
+      <ul>
+        <li><strong>Agentic Frameworks:</strong> LangChain, LangGraph, CrewAI</li>
+        <li><strong>Compute & Models:</strong> Google Gemini, Groq, TensorFlow, Scikit-learn</li>
+        <li><strong>Data & Vector Ops:</strong> ChromaDB, Pandas, NumPy, Matplotlib</li>
+        <li><strong>Deep Learning:</strong> CNNs, Classification, Regression, Clustering</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+> **Core Competencies:** Multi-Agent Workflows • Semantic Search & RAG • Automated Prompt Engineering • Exploratory Data Analysis (EDA) • Performance Benchmarking • Responsible AI Governance
+
+---
+
+### 🚀 Production-Grade Projects
+
+#### 1. AI Career Copilot – Agentic AI Resume Intelligence Platform
+An enterprise-grade, multi-agent career intelligence platform evaluating resume architectures against specific job descriptions.
+- **Architectural Stack:** Python, Streamlit, LangChain, LangGraph, Groq LLMs, Gemini Embeddings, ChromaDB, Faster-Whisper.
+- **Key Modules:** LangGraph-powered RAG analysis, automated ATS scoring, technical skill-gap quantification, and voice-native mock interview simulations.
+- [📁 Source Code](https://github.com/premsaivalluru/ResumeInsight_AI.git) • [🌐 Live Deployment](https://resumeinsightai.streamlit.app/)
+
+#### 2. AI Governance & ML Model Validation Agent
+An automated multi-agent governance platform verifying operational performance, bias matrices, and regulatory safety bounds for ML systems.
+- **Architectural Stack:** Python, CrewAI, Streamlit, Google Gemini, Pandas, Plotly, ReportLab.
+- **Key Modules:** Multi-agent policy analysis, dynamic mathematical valuation dashboarding, systemic fairness auditing, and automated PDF compliance report compilation.
+- [📁 Source Code](https://github.com/premsaivalluru/ml_governance_pipeline.git) • [🌐 Live Deployment](https://ml-model-validation.streamlit.app/)
+
+#### 3. Smart Timetable Management Architecture
+A high-throughput web architecture designed for multi-tier role routing and dynamic scheduling conflict resolution.
+- **Architectural Stack:** Python, Django, HTML5, CSS3, JavaScript, SQLite.
+- **Key Modules:** Dynamic timetable generation algorithms, role-based authentication (Admin/Faculty/Student), and real-time instructional swap request queues.
+- [📁 Source Code](https://github.com/premsaivalluru/Smart_Time_Table_Management_System.git)
+
+---
+
+### 💼 Professional Industry Footprint
+
+- **Machine Learning & Agentic AI Intern** — *Sri Sathya Sai Institute of Actuaries (SSSIA) × Tech Actuarial* (Jun 2026)
+- **Machine Learning & AI Intern** — *BeeSkilled* (May 2026 – Jun 2026)
+- **AI-ML Virtual Intern** — *EduSkills* (Jan 2026 – Mar 2026)
+
+---
+
+### 📊 Engineering Metrics
+
 <div align="center">
-
-# Prem Sai Valluru
-**Agentic AI & GenAI Enthusiast | Python Full Stack Developer**
-
-<p align="center">
-  Building practical AI systems, intelligent workflows, and scalable web applications.
-</p>
-
-<p align="center">
-  <a href="https://premsaivalluru.onrender.com"><img src="https://img.shields.io/badge/Portfolio-2b3137?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-2b3137?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/premsaivalluru"><img src="https://img.shields.io/badge/GitHub-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:vallurupremsai590@gmail.com"><img src="https://img.shields.io/badge/Email-2b3137?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=premsaivalluru&show_icons=true&theme=transparent&hide_border=true" alt="Prem Sai's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=premsaivalluru&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I am a Computer Science & Information Technology undergraduate at MVGR College of Engineering (2023–2027) with a strong focus on building intelligent, data-driven applications. I thrive at the intersection of software engineering and artificial intelligence.
-
-- 🤖 **Focus Areas:** Agentic AI, Generative AI, Retrieval-Augmented Generation (RAG), and Multi-Agent Systems.
-- 🛠️ **Engineering:** Passionate about turning complex machine learning models into accessible APIs and scalable web applications.
-- 🌱 **Current Journey:** Continuously strengthening my foundation in AI engineering, responsible AI, and modern full-stack development.
-
----
-
-## 🧰 Technical Arsenal
-
-### Languages & Core
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-### AI, Data & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/ChromaDB-5A45FF?style=flat-square" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Groq-000000?style=flat-square" alt="Groq" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
----
-
-## 🚀 Featured Work
-
-### ✦ Agentic AI Resume Analyser
-> A multi-agent career assistant that evaluates resumes against job descriptions, providing detailed ATS-style insights, skill-gap analyses, and voice-based mock interview sessions.
-
-**Tech Stack:** `Python` `Streamlit` `LangChain` `LangGraph` `Groq` `ChromaDB` `Faster-Whisper`<br>
-🔗 [Live Demo](#) | 💻 [Source Code](#)
-
-### ✦ AI Governance & ML Model Validation Agent
-> A robust multi-agent platform designed for model-performance evaluation, automated governance checks, fairness assessments, and risk analysis, all integrated into a unified dashboard.
-
-**Tech Stack:** `Python` `CrewAI` `Streamlit` `Google Gemini` `Pandas` `Plotly`<br>
-🔗 [Live Demo](#) | 💻 [Source Code](#)
-
-### ✦ Smart Timetable Management System
-> A comprehensive platform for students and faculty featuring role-based access, automated lecture-swap requests, and real-time schedule-change notifications.
-
-**Tech Stack:** `Python` `Django` `HTML/CSS` `JavaScript` `SQLite`<br>
-💻 [Source Code](#)
-
----
-
-## 💼 Professional Experience
-
-- **Machine Learning & Agentic AI Intern** <br>
-  *Sri Sathya Sai Institute of Actuaries (SSSIA) × Tech Actuarial*
-- **Machine Learning & AI Intern** <br>
-  *BeeSkilled*
-- **AI-ML Virtual Intern** <br>
-  *EduSkills*
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=premsaivalluru&show_icons=true&hide_border=true&theme=transparent&title_color=000000&text_color=333333&icon_color=0A66C2" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premsaivalluru&layout=compact&hide_border=true&theme=transparent&title_color=000000&text_color=333333" alt="Top languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <em>“Learn by building. Improve by iterating. Create things that matter.”</em>
+  <sub>Managed by <strong>Prem Sai Valluru</strong>. Open to strategic technical engineering alignments, core AI research, and infrastructure projects.</sub>
 </div>
