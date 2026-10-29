@@ -13,12 +13,12 @@
       <p>Building production-ready Agentic AI systems, automated workflows, and robust full-stack web architectures.</p>
       <p>
         <a href="https://premsaivalluru.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-        <a href="https://www.linkedin.com/in/premsaivalluru"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
         <a href="mailto:vallurupremsai590@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premsaivalluru&layout=compact&hide_border=true" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premsaivalluru&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="100%"/>
     </td>
   </tr>
 </table>
