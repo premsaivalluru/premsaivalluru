@@ -2,7 +2,7 @@
 
 # Prem Sai Valluru
 
-### AI Engineer in the Making · Agentic AI · Python Development
+### AI Engineer · Agentic AI · Python Development
 
 I build practical AI-powered applications, intelligent workflows, and backend systems.
 
